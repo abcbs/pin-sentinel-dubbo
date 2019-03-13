@@ -1,0 +1,4 @@
+io/ymq/dubbo/consumer/run/Startup.class
+io/ymq/dubbo/consumer/service/ConsumerDemoService.class
+io/ymq/dubbo/consumer/config/PropertiesConfig.class
+io/ymq/dubbo/consumer/web/DemoConsumerController.class
